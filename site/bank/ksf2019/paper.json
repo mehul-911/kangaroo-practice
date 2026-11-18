@@ -1,0 +1,176 @@
+{
+ "id": "ksf2019",
+ "year": 2019,
+ "title": "Kangaroo 2019 \u00b7 Ecolier",
+ "minutes": 75,
+ "questions": [
+  {
+   "n": 1,
+   "points": 3,
+   "img": "ksf2019/q01.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 2,
+   "points": 3,
+   "img": "ksf2019/q02.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 3,
+   "points": 3,
+   "img": "ksf2019/q03.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 4,
+   "points": 3,
+   "img": "ksf2019/q04.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 5,
+   "points": 3,
+   "img": "ksf2019/q05.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 6,
+   "points": 3,
+   "img": "ksf2019/q06.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 7,
+   "points": 3,
+   "img": "ksf2019/q07.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 8,
+   "points": 3,
+   "img": "ksf2019/q08.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 9,
+   "points": 4,
+   "img": "ksf2019/q09.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 10,
+   "points": 4,
+   "img": "ksf2019/q10.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 11,
+   "points": 4,
+   "img": "ksf2019/q11.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 12,
+   "points": 4,
+   "img": "ksf2019/q12.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 13,
+   "points": 4,
+   "img": "ksf2019/q13.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 14,
+   "points": 4,
+   "img": "ksf2019/q14.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 15,
+   "points": 4,
+   "img": "ksf2019/q15.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 16,
+   "points": 4,
+   "img": "ksf2019/q16.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 17,
+   "points": 5,
+   "img": "ksf2019/q17.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 18,
+   "points": 5,
+   "img": "ksf2019/q18.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 19,
+   "points": 5,
+   "img": "ksf2019/q19.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 20,
+   "points": 5,
+   "img": "ksf2019/q20.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 21,
+   "points": 5,
+   "img": "ksf2019/q21.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 22,
+   "points": 5,
+   "img": "ksf2019/q22.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 23,
+   "points": 5,
+   "img": "ksf2019/q23.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 24,
+   "points": 5,
+   "img": "ksf2019/q24.jpg",
+   "answer": "A",
+   "status": "ok"
+  }
+ ]
+}

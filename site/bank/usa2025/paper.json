@@ -1,0 +1,176 @@
+{
+ "id": "usa2025",
+ "year": 2025,
+ "title": "Math Kangaroo USA 2025 \u00b7 Grades 3-4",
+ "minutes": 75,
+ "questions": [
+  {
+   "n": 1,
+   "points": 3,
+   "img": "usa2025/q01.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 2,
+   "points": 3,
+   "img": "usa2025/q02.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 3,
+   "points": 3,
+   "img": "usa2025/q03.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 4,
+   "points": 3,
+   "img": "usa2025/q04.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 5,
+   "points": 3,
+   "img": "usa2025/q05.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 6,
+   "points": 3,
+   "img": "usa2025/q06.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 7,
+   "points": 3,
+   "img": "usa2025/q07.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 8,
+   "points": 3,
+   "img": "usa2025/q08.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 9,
+   "points": 4,
+   "img": "usa2025/q09.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 10,
+   "points": 4,
+   "img": "usa2025/q10.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 11,
+   "points": 4,
+   "img": "usa2025/q11.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 12,
+   "points": 4,
+   "img": "usa2025/q12.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 13,
+   "points": 4,
+   "img": "usa2025/q13.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 14,
+   "points": 4,
+   "img": "usa2025/q14.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 15,
+   "points": 4,
+   "img": "usa2025/q15.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 16,
+   "points": 4,
+   "img": "usa2025/q16.jpg",
+   "answer": "E",
+   "status": "ok"
+  },
+  {
+   "n": 17,
+   "points": 5,
+   "img": "usa2025/q17.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 18,
+   "points": 5,
+   "img": "usa2025/q18.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 19,
+   "points": 5,
+   "img": "usa2025/q19.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 20,
+   "points": 5,
+   "img": "usa2025/q20.jpg",
+   "answer": "D",
+   "status": "ok"
+  },
+  {
+   "n": 21,
+   "points": 5,
+   "img": "usa2025/q21.jpg",
+   "answer": "B",
+   "status": "ok"
+  },
+  {
+   "n": 22,
+   "points": 5,
+   "img": "usa2025/q22.jpg",
+   "answer": "C",
+   "status": "ok"
+  },
+  {
+   "n": 23,
+   "points": 5,
+   "img": "usa2025/q23.jpg",
+   "answer": "A",
+   "status": "ok"
+  },
+  {
+   "n": 24,
+   "points": 5,
+   "img": "usa2025/q24.jpg",
+   "answer": "C",
+   "status": "ok"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "papers": [
+  {
+   "id": "ksf2012",
+   "year": 2012,
+   "title": "Kangaroo 2012 \u00b7 Ecolier",
+   "path": "ksf2012/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2013",
+   "year": 2013,
+   "title": "Kangaroo 2013 \u00b7 Ecolier",
+   "path": "ksf2013/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2014",
+   "year": 2014,
+   "title": "Kangaroo 2014 \u00b7 Ecolier",
+   "path": "ksf2014/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2015",
+   "year": 2015,
+   "title": "Kangaroo 2015 \u00b7 Ecolier (selected)",
+   "path": "ksf2015/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2016",
+   "year": 2016,
+   "title": "Kangaroo 2016 \u00b7 Ecolier",
+   "path": "ksf2016/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2017",
+   "year": 2017,
+   "title": "Kangaroo 2017 \u00b7 Ecolier",
+   "path": "ksf2017/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2018",
+   "year": 2018,
+   "title": "Kangaroo 2018 \u00b7 Ecolier",
+   "path": "ksf2018/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2019",
+   "year": 2019,
+   "title": "Kangaroo 2019 \u00b7 Ecolier",
+   "path": "ksf2019/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2020",
+   "year": 2020,
+   "title": "Kangaroo 2020 \u00b7 Ecolier",
+   "path": "ksf2020/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2021",
+   "year": 2021,
+   "title": "Kangaroo 2021 \u00b7 Ecolier",
+   "path": "ksf2021/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2022",
+   "year": 2022,
+   "title": "Kangaroo 2022 \u00b7 Ecolier",
+   "path": "ksf2022/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "ksf2023",
+   "year": 2023,
+   "title": "Kangaroo 2023 \u00b7 Ecolier",
+   "path": "ksf2023/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "usa2024",
+   "year": 2024,
+   "title": "Math Kangaroo USA 2024 \u00b7 Grades 3-4",
+   "path": "usa2024/paper.json",
+   "usable": 24,
+   "total": 24
+  },
+  {
+   "id": "usa2025",
+   "year": 2025,
+   "title": "Math Kangaroo USA 2025 \u00b7 Grades 3-4",
+   "path": "usa2025/paper.json",
+   "usable": 24,
+   "total": 24
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "ksf2012": {
+  "year": 2012,
+  "title": "Kangaroo 2012 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "BDBCAEBDEBECDBDCDCDBEDEC",
+  "note": "Q7: IKMC sheet lists C; own count (8x5 checkerboard, 12 of 20 grey tiles remain) and the USA key give B."
+ },
+ "ksf2013": {
+  "year": 2013,
+  "title": "Kangaroo 2013 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "DDEBCDBEBDDADEBBDDBCEBBB"
+ },
+ "ksf2014": {
+  "year": 2014,
+  "title": "Kangaroo 2014 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "DDADAEECEEBDBBCBBCBCADDD"
+ },
+ "ksf2015": {
+  "year": 2015,
+  "title": "Kangaroo 2015 \u00b7 Ecolier (selected)",
+  "minutes": 75,
+  "key": "EAEEBEBADBCCBDCACDDECDDC"
+ },
+ "ksf2016": {
+  "year": 2016,
+  "title": "Kangaroo 2016 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "EEAADBACBBCBDACDDBDCACEB"
+ },
+ "ksf2017": {
+  "year": 2017,
+  "title": "Kangaroo 2017 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "EAECAECAEEBCDDADCBACCBEB"
+ },
+ "ksf2018": {
+  "year": 2018,
+  "title": "Kangaroo 2018 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "BECEDDDADABEECCDDCBABDEB"
+ },
+ "ksf2019": {
+  "year": 2019,
+  "title": "Kangaroo 2019 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "ECADAADBBCCEBADDECBEBEDA"
+ },
+ "ksf2020": {
+  "year": 2020,
+  "title": "Kangaroo 2020 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "EEAAEDECCCDEDADBBCADDDBD"
+ },
+ "ksf2021": {
+  "year": 2021,
+  "title": "Kangaroo 2021 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "CCBBECDCAEECCEDBDEDADEDA"
+ },
+ "ksf2022": {
+  "year": 2022,
+  "title": "Kangaroo 2022 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "AECCEDACBCABEBECBCBECBCD"
+ },
+ "ksf2023": {
+  "year": 2023,
+  "title": "Kangaroo 2023 \u00b7 Ecolier",
+  "minutes": 75,
+  "key": "DCBCCECEAAEADDBACBBDBBCD"
+ },
+ "usa2024": {
+  "year": 2024,
+  "title": "Math Kangaroo USA 2024 \u00b7 Grades 3-4",
+  "minutes": 75,
+  "key": "ECCCDCEBCABDABBDDAEDDCED"
+ },
+ "usa2025": {
+  "year": 2025,
+  "title": "Math Kangaroo USA 2025 \u00b7 Grades 3-4",
+  "minutes": 75,
+  "key": "AEEEABAEECBBBDCEDBDDBCAC"
+ }
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kangaroo Practice · Grades 3 & 4</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦘</text></svg>">
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--ink:#1d2433;--mute:#667085;--line:#e3e6ef;--pri:#e8730c;--pri2:#c75d00;--ok:#1a9a55;--bad:#d33b3b;--warn:#b7791f;--sel:#fff1e3}
+@media(prefers-color-scheme:dark){:root{--bg:#12151c;--card:#1b2030;--ink:#eceff6;--mute:#9aa3b8;--line:#2b3247;--sel:#3a2a18}}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{display:flex;align-items:center;gap:12px;padding:10px 16px;background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+header h1{font-size:18px;margin:0;flex:1}header .timer{font-variant-numeric:tabular-nums;font-weight:700;padding:4px 10px;border-radius:8px;background:var(--sel)}
+.timer.low{background:#fde4e4;color:var(--bad)}
+main{max-width:980px;margin:0 auto;padding:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:16px}
+h2{margin:0 0 10px;font-size:22px}h3{margin:14px 0 6px}
+button,.btn{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;padding:9px 16px;cursor:pointer}
+button:hover{border-color:var(--pri)}button.pri{background:var(--pri);border-color:var(--pri);color:#fff;font-weight:600}button.pri:hover{background:var(--pri2)}
+button:disabled{opacity:.5;cursor:not-allowed}
+input,select{font:inherit;font-size:16px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);width:100%}
+label{display:block;font-size:14px;color:var(--mute);margin:10px 0 4px}
+.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}.row>*{flex:1}.row.auto>*{flex:0 1 auto}
+.muted{color:var(--mute);font-size:14px}.err{color:var(--bad);font-size:14px;min-height:20px}
+.qimg{width:100%;max-width:900px;display:block;margin:0 auto;border:1px solid var(--line);border-radius:10px;background:#fff}
+.opts{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:14px 0}
+.opts button{font-size:20px;font-weight:700;padding:14px 0}.opts button.sel{background:var(--pri);color:#fff;border-color:var(--pri)}
+.opts button.right{background:var(--ok);color:#fff;border-color:var(--ok)}.opts button.wrong{background:var(--bad);color:#fff;border-color:var(--bad)}
+.nav{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px}
+.nav button{padding:6px 0;font-weight:600}.nav .done{background:var(--sel);border-color:var(--pri)}.nav .cur{outline:3px solid var(--pri)}.nav .flag{box-shadow:inset 0 -4px 0 #6b5bff}
+.tier{display:inline-block;padding:2px 10px;border-radius:99px;background:var(--sel);font-size:13px;font-weight:700}
+.big{font-size:56px;font-weight:800;line-height:1}.pill{display:inline-block;padding:2px 10px;border-radius:99px;font-size:13px;font-weight:600}
+.ok{color:var(--ok)}.bad{color:var(--bad)}table{width:100%;border-collapse:collapse}td,th{padding:8px;border-bottom:1px solid var(--line);text-align:left;font-size:15px}
+.menu{position:absolute;right:12px;top:52px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px;min-width:220px;box-shadow:0 8px 24px #0002;z-index:9}
+.menu button{display:block;width:100%;text-align:left;border:0;background:none}.menu button:hover{background:var(--sel)}
+.expl{background:var(--sel);border-radius:10px;padding:10px 14px;margin-top:10px}
+.rev{display:grid;grid-template-columns:1fr;gap:14px}.rev .card{margin:0}
+@media(max-width:600px){.opts button{font-size:18px;padding:12px 0}.big{font-size:44px}}
+</style></head>
+<body>
+<header><h1>🦘 Kangaroo Practice <span class="muted">· Grades 3 &amp; 4</span></h1><span id="timer" class="timer" hidden></span>
+<button id="menuBtn" hidden aria-label="Menu">☰</button></header>
+<div id="menu" class="menu" hidden></div>
+<main id="app"><p class="muted">Loading…</p></main>
+<script type="module" src="app.js?v=3"></script>
+</body></html>
